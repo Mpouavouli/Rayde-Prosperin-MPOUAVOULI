@@ -94,16 +94,6 @@ Les mesures de risque (VaR, CVaR, stress tests, backtesting)
 Les fondamentaux de l’économétrie financière
 
 
-## Autres projets
-
-- Segmentation des clients par clustering (K-Means) – Python
-
-- Tableau de bord des ventes interactif – Excel & Power BI
-
-- Modélisation prédictive et scoring client – Python
-
-- Suivi de la performance ESG – R
-
 ## Me retrouver en ligne
 
 LinkedIn : Rayde Prosperin Mpouavouli
@@ -111,7 +101,7 @@ LinkedIn : Rayde Prosperin Mpouavouli
 
 Portfolio Data & Finance : Lien à venir
 
-Contact : rayde.prosperin@example.com
+Contact : Prosperinmpouavouli@gmail.com
 
 Citation
 
