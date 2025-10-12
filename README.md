@@ -2,7 +2,8 @@
 
 Étudiant en Master Ingénierie Financière et Modélisation à l’Université Sorbonne Paris Nord, passionné par la finance quantitative, la gestion des risques et la data science appliquée aux marchés financiers.
 
-Mon objectif : allier rigueur mathématique, analyse de données et programmation pour concevoir des modèles prédictifs, des outils d’aide à la décision et des stratégies d’investissement performantes.
+# Mon objectif :
+allier rigueur mathématique, analyse de données et programmation pour concevoir des modèles prédictifs, des outils d’aide à la décision et des stratégies d’investissement performantes.
 
 ## À propos de moi
 
