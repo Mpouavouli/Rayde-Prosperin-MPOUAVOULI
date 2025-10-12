@@ -96,8 +96,7 @@ Les fondamentaux de l’économétrie financière
 
 ## Me retrouver en ligne
 
-LinkedIn : Rayde Prosperin Mpouavouli
- (à personnaliser)
+LinkedIn : www.linkedin.com/in/rayde-prosperin
 
 Portfolio Data & Finance : Lien à venir
 
